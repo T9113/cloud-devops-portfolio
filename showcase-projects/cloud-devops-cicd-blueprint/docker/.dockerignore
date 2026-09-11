@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+.git
+.github
+.gitignore
+terraform
+k8s
+*.md
+.env*
+.DS_Store
+dist
+build
